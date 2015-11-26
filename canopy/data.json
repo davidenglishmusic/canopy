@@ -1,0 +1,479 @@
+{
+  "project": [
+    {
+      "id": 0,
+      "name": "Downtown Stanley Park",
+      "plots": [
+        {
+          "id": 0,
+          "coordinate pairs": [
+            {
+              "id": 0,
+              "longitude": 0,
+              "latitude": 0,
+              "species": [
+                {
+                  "id": 0,
+                  "name": "douglas fir",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 1,
+                  "name": "western hemlock",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 2,
+                  "name": "western red cedar",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                }
+              ]
+            },
+            {
+              "id": 1,
+              "longitude": 0,
+              "latitude": 0,
+              "species": [
+                {
+                  "id": 0,
+                  "name": "douglas fir",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 1,
+                  "name": "western hemlock",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 2,
+                  "name": "western red cedar",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "longitude": 0,
+              "latitude": 0,
+              "species": [
+                {
+                  "id": 0,
+                  "name": "douglas fir",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 1,
+                  "name": "western hemlock",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 2,
+                  "name": "western red cedar",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "longitude": 0,
+              "latitude": 0,
+              "species": [
+                {
+                  "id": 0,
+                  "name": "douglas fir",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 1,
+                  "name": "western hemlock",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 2,
+                  "name": "western red cedar",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "longitude": 0,
+              "latitude": 0,
+              "species": [
+                {
+                  "id": 0,
+                  "name": "douglas fir",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 1,
+                  "name": "western hemlock",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 2,
+                  "name": "western red cedar",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "longitude": 0,
+              "latitude": 0,
+              "species": [
+                {
+                  "id": 0,
+                  "name": "douglas fir",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 1,
+                  "name": "western hemlock",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 2,
+                  "name": "western red cedar",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "longitude": 0,
+              "latitude": 0,
+              "species": [
+                {
+                  "id": 0,
+                  "name": "douglas fir",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 1,
+                  "name": "western hemlock",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 2,
+                  "name": "western red cedar",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "longitude": 0,
+              "latitude": 0,
+              "species": [
+                {
+                  "id": 0,
+                  "name": "douglas fir",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 1,
+                  "name": "western hemlock",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 2,
+                  "name": "western red cedar",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "longitude": 0,
+              "latitude": 0,
+              "species": [
+                {
+                  "id": 0,
+                  "name": "douglas fir",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 1,
+                  "name": "western hemlock",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 2,
+                  "name": "western red cedar",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "longitude": 0,
+              "latitude": 0,
+              "species": [
+                {
+                  "id": 0,
+                  "name": "douglas fir",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 1,
+                  "name": "western hemlock",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 2,
+                  "name": "western red cedar",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "coordinate pairs": [
+            {
+              "id": 0,
+              "longitude": 0,
+              "latitude": 0,
+              "species": [
+                {
+                  "id": 0,
+                  "name": "douglas fir",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 1,
+                  "name": "western hemlock",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 2,
+                  "name": "western red cedar",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                }
+              ]
+            },
+            {
+              "id": 1,
+              "longitude": 0,
+              "latitude": 0,
+              "species": [
+                {
+                  "id": 0,
+                  "name": "douglas fir",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 1,
+                  "name": "western hemlock",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 2,
+                  "name": "western red cedar",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "longitude": 0,
+              "latitude": 0,
+              "species": [
+                {
+                  "id": 0,
+                  "name": "douglas fir",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 1,
+                  "name": "western hemlock",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 2,
+                  "name": "western red cedar",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "North Shore",
+      "plots": [
+        {
+          "id": 0,
+          "coordinate pairs": [
+            {
+              "id": 0,
+              "longitude": 0,
+              "latitude": 0,
+              "species": [
+                {
+                  "id": 0,
+                  "name": "douglas fir",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 1,
+                  "name": "western hemlock",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 2,
+                  "name": "red alder",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                }
+              ]
+            },
+            {
+              "id": 1,
+              "longitude": 0,
+              "latitude": 0,
+              "species": [
+                {
+                  "id": 0,
+                  "name": "douglas fir",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 1,
+                  "name": "western hemlock",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 2,
+                  "name": "red alder",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "longitude": 0,
+              "latitude": 0,
+              "species": [
+                {
+                  "id": 0,
+                  "name": "douglas fir",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 1,
+                  "name": "western hemlock",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                },
+                {
+                  "id": 2,
+                  "name": "red alder",
+                  "count": 0,
+                  "average height": 0,
+                  "average age": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

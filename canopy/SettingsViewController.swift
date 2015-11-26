@@ -13,6 +13,7 @@ class SettingsViewController: UIViewController, CLLocationManagerDelegate {
     
     let locationManager = CLLocationManager()
     
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -40,4 +41,6 @@ class SettingsViewController: UIViewController, CLLocationManagerDelegate {
     func locationManager(manager: CLLocationManager, didFailWithError error: NSError) {
         print("Error finding location: \(error.localizedDescription)")
     }
+    
+    
 }

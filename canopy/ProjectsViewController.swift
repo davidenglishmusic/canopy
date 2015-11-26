@@ -16,6 +16,7 @@ class ProjectsViewController: UIViewController, UITableViewDataSource, UITableVi
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        _ = Stickshift()
         // Do any additional setup after loading the view, typically from a nib.
     }
 

@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9057" systemVersion="15B42" minimumToolsVersion="Automatic">
     <entity name="CoordinatePair" syncable="YES">
-        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
-        <attribute name="latitude" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
-        <attribute name="longitude" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="id" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="latitude" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="longitude" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
         <relationship name="plot" maxCount="1" deletionRule="Nullify" destinationEntity="Plot" inverseName="coordinatePair" inverseEntity="Plot" syncable="YES"/>
         <relationship name="species" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Species" inverseName="coordinatePair" inverseEntity="Species" syncable="YES"/>
     </entity>
     <entity name="Plot" syncable="YES">
-        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="id" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
         <relationship name="coordinatePair" toMany="YES" deletionRule="Cascade" destinationEntity="CoordinatePair" inverseName="plot" inverseEntity="CoordinatePair" syncable="YES"/>
         <relationship name="project" maxCount="1" deletionRule="Nullify" destinationEntity="Project" inverseName="plot" inverseEntity="Project" syncable="YES"/>
     </entity>
     <entity name="Project" syncable="YES">
-        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
-        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="name" attributeType="String" syncable="YES"/>
         <relationship name="plot" toMany="YES" deletionRule="Cascade" destinationEntity="Plot" inverseName="project" inverseEntity="Plot" syncable="YES"/>
     </entity>
     <entity name="Species" syncable="YES">
-        <attribute name="age" optional="YES" attributeType="Decimal" defaultValueString="0.0" syncable="YES"/>
-        <attribute name="count" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
-        <attribute name="height" optional="YES" attributeType="Decimal" defaultValueString="0.0" syncable="YES"/>
-        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
-        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="age" attributeType="Decimal" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="count" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="height" attributeType="Decimal" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="id" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="name" attributeType="String" syncable="YES"/>
         <relationship name="coordinatePair" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="CoordinatePair" inverseName="species" inverseEntity="CoordinatePair" syncable="YES"/>
     </entity>
     <elements>
-        <element name="CoordinatePair" positionX="-117" positionY="-90" width="128" height="120"/>
-        <element name="Plot" positionX="-270" positionY="-216" width="128" height="90"/>
-        <element name="Project" positionX="-450" positionY="-324" width="128" height="90"/>
-        <element name="Species" positionX="90" positionY="9" width="128" height="135"/>
+        <element name="CoordinatePair" positionX="-117" positionY="-90" width="128" height="118"/>
+        <element name="Plot" positionX="-270" positionY="-216" width="128" height="88"/>
+        <element name="Project" positionX="-450" positionY="-324" width="128" height="88"/>
+        <element name="Species" positionX="90" positionY="9" width="128" height="133"/>
     </elements>
 </model>
